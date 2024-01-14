@@ -1,0 +1,3 @@
+Batu Bata,200
+Semen,30
+Besi 100,50
